@@ -3,7 +3,10 @@
 Training and validation tests using 640×640 images (normal mode) versus 160×160 tiles generated from the same images. Comparison of results, metrics, and visualizations.
 
 <p align="center">
-  <video src="NormalAndTiles.mp4" controls alt="home">
+  <video width="640" height="360" controls>
+    <source src="NormalAndTiles.mp4" type="video/mp4">
+    Tu navegador no soporta el elemento de video.
+  </video>
 </p>
 
 <br>
