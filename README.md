@@ -3,10 +3,11 @@
 Training and validation tests using 640×640 images (normal mode) versus 160×160 tiles generated from the same images. Comparison of results, metrics, and visualizations.
 
 <p align="center">
-  <video width="640" height="360" controls>
-    <source src="NormalAndTiles.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-  </video>
+  <img src="README-images/appleComparative.png" alt="comparativeApple">
+</p>
+
+<p align="center">
+  <img src="README-images/bananaComparative.png" alt="comparativeBanana">
 </p>
 
 <br>
@@ -29,7 +30,7 @@ Normal Mode
 </div>
 
 <p align="center">
-  <img src="NormalMode/results.png" alt="home">
+  <img src="NormalMode/results.png" alt="resultsNormalMode">
 </p>
 
 Tiles Mode 
@@ -58,7 +59,7 @@ Tiles Mode better visualization
 
 
 <p align="center">
-  <img src="TileMode/results.png" alt="home">
+  <img src="TileMode/results.png" alt="resultsTileMode">
 </p>
 
 
