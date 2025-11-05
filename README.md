@@ -85,6 +85,8 @@ Por ejemplo, el tiling resulta útil en escenarios donde las imágenes originale
 En cambio, en contextos donde las imágenes ya tienen una resolución moderada (como 640 × 640 px) o los objetos son de tamaño medio a grande, aplicar tiling puede fragmentar la información relevante, dificultando la detección y segmentación coherente de las instancias. Por tanto, el uso del tiling debe ser selectivo y respaldado por pruebas empíricas que justifiquen su beneficio en cada caso de uso específico
 
 
+## Repository for [tile-splitter]([https://github.com/diegoperea20](https://github.com/diegoperea20/tile-splitter))
+
 ## 📄 License
 
 This project is under the  License. See the `LICENSE` file for more details.
