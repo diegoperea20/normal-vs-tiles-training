@@ -87,7 +87,7 @@ En cambio, en contextos donde las imágenes ya tienen una resolución moderada (
 
 ----
 
-Repository for [tile-splitter](https://github.com/diegoperea20](https://github.com/diegoperea20/tile-splitter)
+Repository for [tile-splitter](https://github.com/diegoperea20/tile-splitter)
 
 ## 📄 License
 
